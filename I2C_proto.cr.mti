@@ -1,0 +1,8 @@
+D:/questa_sim/kiran_projects_/work/I2C_proto/i2c_mem.v {1 {vlog -work work -vopt -sv -stats=none D:/questa_sim/kiran_projects_/work/I2C_proto/i2c_mem.v
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module i2c_mem
+
+Top level modules:
+	i2c_mem
+
+} {} {}}
