@@ -1,31 +1,17 @@
-# Questa/ModelSim
+# Questa
 work/
-transcript
-vsim.wlf
+uvm/
 *.wlf
-*.log
-*.jou
-*.pb
-
-# Coverage
-covhtmlreport/
-*.ucdb
-
-# Waveforms
 *.vcd
-*.fsdb
-
-# Temporary files
-*.tmp
+*.log
 *.bak
+*.mpf
+*.mti
+*.vstf
+transcript
 
-# Editor
+# VS Code
 .vscode/
-*.swp
-
-# OS
-Thumbs.db
-.DS_Store
 
 # Python
 __pycache__/
