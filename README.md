@@ -1,5 +1,31 @@
 # I2C Protocol Verification using UVM
 
+<p align="left">
+<img src="https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white"/>
+<img src="https://img.shields.io/badge/UVM-Verification-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QuestaSim-Simulator-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coverage-90%25+-brightgreen?style=for-the-badge"/>
+</p>
+
+## 📘 Documentation
+
+A detailed project guide describing the verification architecture, UVM components, simulation flow, and implementation is available here:
+
+📄 **[I2C Verification Guide (PDF)](https://github.com/Kiran-Gorajanal07/I2C-UVM-Verification/blob/main/docs/I2C_Verification_guide.pdf)**
+
+## Verification Methodology
+
+The verification environment follows a reusable and coverage-driven UVM architecture.
+
+| Methodology | Description |
+|--------------|-------------|
+| Verification Methodology | Universal Verification Methodology (UVM) |
+| Stimulus Generation | Constrained-Random & Directed Testing |
+| Communication | Transaction-Level Modeling (TLM) |
+| Checking Mechanism | Scoreboard-Based Functional Checking |
+| Functional Coverage | Coverage-Driven Verification |
+| Reusability | Modular UVM Components |
+
 ## Overview
 
 This project implements a **UVM-based functional verification environment** for an I2C (Inter-Integrated Circuit) protocol design using **SystemVerilog** and the **Universal Verification Methodology (UVM)**.
