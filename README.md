@@ -1,11 +1,11 @@
 # I2C Protocol Verification using UVM
 
-<p align="left">
-<img src="https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white"/>
-<img src="https://img.shields.io/badge/UVM-Verification-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QuestaSim-Simulator-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Coverage-90%25+-brightgreen?style=for-the-badge"/>
-</p>
+# I2C Protocol Verification using UVM
+
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8A2BE2?style=for-the-badge)
+![UVM](https://img.shields.io/badge/UVM-Verification-blue?style=for-the-badge)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-Simulator-green?style=for-the-badge)
+![Coverage](https://img.shields.io/badge/Functional%20Coverage-90%25+-brightgreen?style=for-the-badge)
 
 ## 📘 Documentation
 
