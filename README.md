@@ -1,11 +1,10 @@
 # I2C Protocol Verification using UVM
 
 
-
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-IEEE%201800-6A1B9A?style=for-the-badge)
-![UVM](https://img.shields.io/badge/UVM-Universal%20Verification%20Methodology-1976D2?style=for-the-badge)
-![QuestaSim](https://img.shields.io/badge/QuestaSim-Siemens%20EDA-00897B?style=for-the-badge)
-![Coverage](https://img.shields.io/badge/Functional%20Coverage-90%25%2B-success?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-IEEE%201800-6A1B9A?style=flat-square)
+![UVM](https://img.shields.io/badge/UVM-Universal%20Verification%20Methodology-1976D2?style=flat-square)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-Siemens%20EDA-00897B?style=flat-square)
+![Coverage](https://img.shields.io/badge/Functional%20Coverage-90%25%2B-success?style=flat-square)
 
 ## 📘 Documentation
 
