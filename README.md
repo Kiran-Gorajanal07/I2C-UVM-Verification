@@ -2,12 +2,12 @@
 
 
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SystemVerilog-EDA-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UVM-Verification-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Simulator-Questa-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coverage-90%25+-brightgreen?style=for-the-badge" />
-</p>
+# I2C Protocol Verification using UVM
+
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-IEEE-blueviolet?style=for-the-badge)
+![UVM](https://img.shields.io/badge/UVM-Verification-blue?style=for-the-badge)
+![Questa](https://img.shields.io/badge/QuestaSim-Mentor%20Graphics-green?style=for-the-badge)
+![Coverage](https://img.shields.io/badge/Coverage-90%25+-brightgreen?style=for-the-badge)
 
 ## 📘 Documentation
 
